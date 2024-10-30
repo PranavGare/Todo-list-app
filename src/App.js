@@ -20,7 +20,7 @@ function App() {
 
   return (
     <div className="app">
-      <h1>Todo List</h1>
+      <h1>Notes/ Todo-List</h1>
       <TodoList todos={todos} addTodo={addTodo} editTodo={editTodo} deleteTodo={deleteTodo} />
     </div>
   );
