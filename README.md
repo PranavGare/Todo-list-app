@@ -1,13 +1,9 @@
 Project is Live : https://pranavgare.github.io/Todo-list-app/
 
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+<img width="1440" alt="Screenshot 2024-12-10 at 1 47 16 AM" src="https://github.com/user-attachments/assets/f1c5e50b-ffa9-47ea-927e-bd2f2cf21510">
 
 In the project directory, you can run:
-
+### `npm i`
 ### `npm start`
 
 Runs the app in the development mode.\
